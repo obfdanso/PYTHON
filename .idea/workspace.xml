@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c6da335-a318-4076-9341-5aa90a106832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY 17.py" afterDir="false" />
-    </list>
+    <list default="true" id="4c6da335-a318-4076-9341-5aa90a106832" name="Changes" comment="&quot;OOP&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732636766498</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;OOP&quot;">
+      <option name="closed" value="true" />
+      <created>1732808442989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732808442989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;OOP&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;OOP&quot;" />
   </component>
 </project>
